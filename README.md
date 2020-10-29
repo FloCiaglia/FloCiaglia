@@ -3,6 +3,8 @@
 <!--
 **FloCiaglia/FloCiaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Image of landscape](https://octodex.github.com/images/yaktocat.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
