@@ -2,8 +2,8 @@
 
 
 
-This is an image
-<img src="landscape.jpeg" alt="alt text" width="550" height="250">
+
+<img src="landscape.jpeg" alt="alt text" width="750" height="250">
 
 
 Here are some ideas to get you started:
