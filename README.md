@@ -3,6 +3,7 @@
 <!--
 **FloCiaglia/FloCiaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+This is an image
 <img src="landscape.jpeg" alt="alt text" width="550" height="250">
 
 
