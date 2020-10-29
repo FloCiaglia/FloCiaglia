@@ -3,7 +3,7 @@
 <!--
 **FloCiaglia/FloCiaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![alt text](https://github.com/FloCiaglia/FloCiaglia/landscape.jpeg?raw=true)
+<img src="landscape.jpeg" alt="alt text" width="550" height="250">
 
 
 Here are some ideas to get you started:
